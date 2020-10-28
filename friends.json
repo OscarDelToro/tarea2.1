@@ -1,27 +1,45 @@
 [
    {
     "name" : "Moises Rosales",
-    "hobby": "Fortnite"
+    "hobby": "Fortnite",
+    "age"  : "21",
+    "phone": "2124659870",
+    "address": "Francisco I. madero #10"
    },
    {
     "name" : "Rogelio Felix",
-    "hobby": "Anime y waifus"
+    "hobby": "Anime y waifus",
+    "age"  : "21",
+    "phone": "9875603409",
+    "address": "Memo-kun #34"
    },
    {
     "name" : "Santiago Aragon",
-    "hobby": "Sports"
+    "hobby": "Sports",
+    "age"  : "21",
+    "phone": "6599875630",
+    "address": "Independencia norte #45"
    },
    {
     "name" : "Diego Arredondo",
-    "hobby": "Crossfit"
+    "hobby": "Crossfit",
+    "age"  : "21",
+    "phone": "5708673425",
+    "address": "Andres Manuel Lopez Obrador #5"
    },
    {
     "name" : "Gus",
-    "hobby": "rescatar gatitos callejeros"
+    "hobby": "rescatar gatitos callejeros",
+    "age"  : "22",
+    "phone": "2187009967",
+    "address": "Gussiny del campo #69"
    },
    {
     "name" : "Memo Rivas",
-    "hobby": "Castigar al carnes"
+    "hobby": "Castigar al carnes",
+    "age"  : "unkown mystery",
+    "phone": "9573680425",
+    "address": "Reposo #5"
    },
 
 
